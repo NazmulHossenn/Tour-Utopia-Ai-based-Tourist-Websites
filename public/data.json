@@ -1,0 +1,516 @@
+[
+    {
+        "id": 1,
+        "category": "Adventure",
+        "location": "Paris",
+        "name": "Paris Adventure Tour",
+        "details": "Experience the thrill of adventure in the heart of Paris. Explore hidden gems, climb iconic landmarks, and enjoy breathtaking views.",
+        "price": 599.99,
+        "image": "/paris1.jpg",
+        "gallery": [
+            "/paris2.jpg",
+            "/paris3.jpg",
+            "/paris4.jpg",
+            "/paris5.jpg"
+        ],
+        "duration": "2 days",
+        "includesMeals": true,
+        "difficultyLevel": "Moderate",
+        "meetingPoint": "Eiffel Tower Visitor Center",
+        "departureTime": "9:00 AM",
+        "returnTime": "6:00 PM",
+        "highlights": [
+            "Explore hidden gems in Paris",
+            "Climb the Eiffel Tower for panoramic views",
+            "Discover secret landmarks known to locals",
+            "Experience the thrill of urban adventure"
+        ],
+        "recommendedGear": [
+            "Comfortable hiking shoes",
+            "Weather-appropriate clothing",
+            "Water bottle",
+            "Camera"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Adventure",
+        "location": "Paris",
+        "name": "Seine Kayaking Expedition",
+        "details": "Embark on a thrilling kayaking adventure along the Seine River. Explore the city from a unique perspective, paddle past iconic landmarks, and enjoy the excitement of urban water exploration.",
+        "price": 649.99,
+        "image": "/paris2.jpg",
+        "gallery": [
+            "/paris1.jpg",
+            "/paris3.jpg",
+            "/paris4.jpg",
+            "/paris5.jpg"
+        ],
+        "duration": "1.5 days",
+        "includesMeals": true,
+        "difficultyLevel": "Intermediate",
+        "meetingPoint": "Seine River Kayak Rentals",
+        "departureTime": "10:00 AM",
+        "returnTime": "4:00 PM",
+        "highlights": [
+            "Kayak through historic Parisian waterways",
+            "Pass by famous landmarks from the water",
+            "Expert-led kayaking experience",
+            "Enjoy a riverside picnic"
+        ],
+        "recommendedGear": [
+            "Kayaking gear provided",
+            "Sunscreen",
+            "Waterproof camera",
+            "Snacks"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Adventure",
+        "location": "Paris",
+        "name": "Rooftop Ziplining Adventure",
+        "details": "Soar above the Parisian skyline on a thrilling rooftop ziplining adventure. Experience an adrenaline rush as you glide between iconic buildings, enjoying breathtaking views of the city below.",
+        "price": 799.99,
+        "image": "/paris3.jpg",
+        "gallery": [
+            "/paris1.jpg",
+            "/paris2.jpg",
+            "/paris4.jpg",
+            "/paris5.jpg"
+        ],
+        "duration": "1 day",
+        "includesMeals": true,
+        "difficultyLevel": "Advanced",
+        "meetingPoint": "Rooftop Zipline HQ",
+        "departureTime": "8:00 AM",
+        "returnTime": "5:00 PM",
+        "highlights": [
+            "Zipline between iconic Parisian buildings",
+            "Panoramic views of the city",
+            "Professional ziplining guides",
+            "Gourmet rooftop lunch included"
+        ],
+        "recommendedGear": [
+            "Safety harness and equipment provided",
+            "Closed-toe shoes",
+            "Comfortable clothing",
+            "Bravery and excitement!"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Adventure",
+        "location": "Paris",
+        "name": "Urban Rock Climbing Challenge",
+        "details": "Conquer the urban landscape with a rock climbing challenge in the heart of Paris. Scale iconic structures, test your climbing skills, and enjoy breathtaking views of the city from new heights.",
+        "price": 699.99,
+        "image": "/paris4.jpg",
+        "gallery": [
+            "/paris1.jpg",
+            "/paris3.jpg",
+            "/paris5.jpg",
+            "/paris2.jpg"
+        ],
+        "duration": "2 days",
+        "includesMeals": true,
+        "difficultyLevel": "Expert",
+        "meetingPoint": "Urban Climbers Base Camp",
+        "departureTime": "7:00 AM",
+        "returnTime": "8:00 PM",
+        "highlights": [
+            "Rock climb iconic Parisian structures",
+            "Professional climbing guides",
+            "Challenge your climbing skills",
+            "Overnight camping at climbing site"
+        ],
+        "recommendedGear": [
+            "Climbing gear provided",
+            "Sturdy climbing shoes",
+            "Camping equipment",
+            "Adventure spirit!"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Adventure",
+        "location": "Paris",
+        "name": "Parisian Biking Expedition",
+        "details": "Embark on an adventurous biking expedition through the charming streets of Paris. Explore hidden alleys, cruise along the Seine, and discover the city's vibrant neighborhoods on two wheels.",
+        "price": 549.99,
+        "image": "/paris5.jpg",
+        "gallery": [
+            "/paris1.jpg",
+            "/paris3.jpg",
+            "/paris4.jpg",
+            "/paris2.jpg"
+        ],
+        "duration": "1.5 days",
+        "includesMeals": true,
+        "difficultyLevel": "Intermediate",
+        "meetingPoint": "City Bikes Rental Hub",
+        "departureTime": "9:30 AM",
+        "returnTime": "3:30 PM",
+        "highlights": [
+            "Bike through historic Parisian streets",
+            "Scenic ride along the Seine River",
+            "Knowledgeable biking guides",
+            "Enjoy a gourmet picnic in a Parisian park"
+        ],
+        "recommendedGear": [
+            "City bikes provided",
+            "Comfortable biking attire",
+            "Helmet",
+            "Exploration spirit!"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Adventure",
+        "location": "Tokyo",
+        "name": "Tokyo Urban Cycling Experience",
+        "details": "Embark on an adventurous cycling expedition through Tokyo's vibrant urban landscape. Explore hidden neighborhoods, cruise along the Sumida River, and discover the city's modern and traditional contrasts on two wheels.",
+        "price": 579.99,
+        "image": "/tokyo1.jpg",
+        "gallery": [
+            "/tokyo2.jpg",
+            "/tokyo3.jpg",
+            "/tokyo4.jpg",
+            "/tokyo5.jpg"
+        ],
+        "duration": "1.5 days",
+        "includesMeals": true,
+        "difficultyLevel": "Intermediate",
+        "meetingPoint": "Tokyo Bikes Rental Hub",
+        "departureTime": "10:00 AM",
+        "returnTime": "4:30 PM",
+        "highlights": [
+            "Cycle through modern and traditional Tokyo",
+            "Scenic ride along the Sumida River",
+            "Knowledgeable biking guides",
+            "Enjoy a traditional tea ceremony pitstop"
+        ],
+        "recommendedGear": [
+            "City bikes provided",
+            "Comfortable biking attire",
+            "Helmet",
+            "Exploration spirit!"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Cultural",
+        "location": "Tokyo",
+        "name": "Traditional Kimono Experience",
+        "details": "Immerse yourself in Tokyo's rich cultural heritage with a traditional kimono experience. Explore historic districts, visit shrines and temples, and discover the art of wearing a kimono with the guidance of experts.",
+        "price": 699.99,
+        "image": "/tokyo2.jpg",
+        "gallery": [
+            "/tokyo3.jpg",
+            "/tokyo4.jpg",
+            "/tokyo5.jpg",
+            "/tokyo1.jpg"
+        ],
+        "duration": "2 days",
+        "includesMeals": true,
+        "culturalGuides": [
+            "Kimono experts"
+        ],
+        "meetingPoint": "Traditional Kimono Studio",
+        "departureTime": "9:30 AM",
+        "returnTime": "6:00 PM",
+        "highlights": [
+            "Experience the art of wearing a traditional kimono",
+            "Explore historic districts in authentic attire",
+            "Visit renowned shrines and temples",
+            "Capture memorable photos in traditional settings"
+        ],
+        "recommendedGear": [
+            "Comfortable undergarments",
+            "Lightweight footwear",
+            "Personal accessories for personalization",
+            "Camera for capturing the cultural experience"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Gastronomy",
+        "location": "Tokyo",
+        "name": "Sushi Making Workshop",
+        "details": "Delve into the art of sushi making with a hands-on workshop in Tokyo. Learn the intricacies of crafting sushi, from selecting fresh ingredients to perfecting the art of rolling. A culinary adventure for sushi enthusiasts.",
+        "price": 499.99,
+        "image": "/tokyo3.jpg",
+        "gallery": [
+            "/tokyo4.jpg",
+            "/tokyo5.jpg",
+            "/tokyo1.jpg",
+            "/tokyo2.jpg"
+        ],
+        "duration": "1 day",
+        "includesMeals": true,
+        "culinaryGuides": [
+            "Sushi chefs"
+        ],
+        "meetingPoint": "Sushi Culinary Studio",
+        "departureTime": "11:00 AM",
+        "returnTime": "3:00 PM",
+        "highlights": [
+            "Hands-on experience in sushi crafting",
+            "Learn from professional sushi chefs",
+            "Select and prepare fresh ingredients",
+            "Savor your creations in a sushi feast"
+        ],
+        "recommendedGear": [
+            "Apron and chef's hat provided",
+            "Closed-toe shoes",
+            "Appetite for sushi",
+            "Excitement to learn and indulge"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Nature and Tranquility",
+        "location": "Tokyo",
+        "name": "Shinjuku Gyoen Gardens Retreat",
+        "details": "Escape the bustling city and find tranquility in Shinjuku Gyoen Gardens. Enjoy a peaceful retreat surrounded by beautiful landscapes, serene ponds, and a harmonious blend of traditional Japanese and Western garden styles.",
+        "price": 549.99,
+        "image": "/tokyo4.jpg",
+        "gallery": [
+            "/tokyo5.jpg",
+            "/tokyo3.jpg",
+            "/tokyo2.jpg",
+            "/tokyo1.jpg"
+        ],
+        "duration": "1 day",
+        "includesMeals": false,
+        "natureGuides": [
+            "Garden experts"
+        ],
+        "meetingPoint": "Shinjuku Gyoen Entrance",
+        "departureTime": "9:00 AM",
+        "returnTime": "4:00 PM",
+        "highlights": [
+            "Escape the city to a serene garden oasis",
+            "Stroll through beautiful landscapes",
+            "Discover Japanese and Western garden styles",
+            "Relax and rejuvenate in a peaceful environment"
+        ],
+        "recommendedGear": [
+            "Comfortable walking shoes",
+            "Light jacket or sun protection",
+            "Camera for capturing scenic moments",
+            "Notebook for personal reflections"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Arts and Entertainment",
+        "location": "Tokyo",
+        "name": "Kawaii Culture Experience",
+        "details": "Dive into Tokyo's kawaii (cute) culture with a hands-on experience. Create your own kawaii accessories, explore quirky districts, and embrace the colorful and adorable side of Japanese pop culture.",
+        "price": 649.99,
+        "image": "/tokyo5.jpg",
+        "gallery": [
+            "/tokyo1.jpg",
+            "/tokyo2.jpg",
+            "/tokyo3.jpg",
+            "/tokyo4.jpg"
+        ],
+        "duration": "1.5 days",
+        "includesMeals": true,
+        "cultureGuides": [
+            "Kawaii experts"
+        ],
+        "meetingPoint": "Kawaii Creation Studio",
+        "departureTime": "10:30 AM",
+        "returnTime": "5:30 PM",
+        "highlights": [
+            "Create adorable kawaii accessories",
+            "Explore districts known for kawaii culture",
+            "Embrace the colorful and cute side of Tokyo",
+            "Take home personalized kawaii souvenirs"
+        ],
+        "recommendedGear": [
+            "Creative spirit",
+            "Comfortable attire for crafting",
+            "Camera for documenting kawaii creations",
+            "Excitement for all things cute and colorful"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Cityscape",
+        "location": "New York",
+        "name": "Manhattan Skyline Helicopter Tour",
+        "details": "Soar above the iconic Manhattan skyline with a thrilling helicopter tour. Enjoy breathtaking aerial views of landmarks like the Statue of Liberty, Central Park, and the Empire State Building.",
+        "price": 1199.99,
+        "image": "/new_york1.jpg",
+        "gallery": [
+            "/new_york1.jpg",
+            "/new_york2.jpg",
+            "/new_york3.jpg",
+            "/new_york4.jpg"
+        ],
+        "duration": "1 hour",
+        "includesMeals": false,
+        "observationTimes": [
+            "Morning",
+            "Afternoon"
+        ],
+        "meetingPoint": "Downtown Heliport",
+        "departureTime": "10:00 AM",
+        "returnTime": "11:00 AM",
+        "highlights": [
+            "Aerial views of iconic Manhattan landmarks",
+            "Thrilling helicopter adventure",
+            "Professional and knowledgeable pilot",
+            "Capture stunning photos from above"
+        ],
+        "recommendedGear": [
+            "Comfortable clothing for helicopter ride",
+            "Camera or smartphone for photos",
+            "Photo ID for security check",
+            "Excitement for a memorable experience"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Arts and Entertainment",
+        "location": "New York",
+        "name": "Art Gallery Crawl",
+        "details": "Immerse yourself in the vibrant art scene of New York with a curated gallery crawl. Explore contemporary and classical art, meet artists, and gain insights into the city's dynamic art culture.",
+        "price": 899.99,
+        "image": "/new_york2.jpg",
+        "gallery": [
+            "/new_york3.jpg",
+            "/new_york4.jpg",
+            "/new_york5.jpg",
+            "/new_york1.jpg"
+        ],
+        "duration": "1.5 days",
+        "includesMeals": true,
+        "observationTimes": [
+            "Evening"
+        ],
+        "meetingPoint": "Chelsea Art District",
+        "departureTime": "5:00 PM",
+        "returnTime": "8:30 PM",
+        "highlights": [
+            "Curated tour of renowned art galleries",
+            "Meet and greet with local artists",
+            "Insights into New York's dynamic art culture",
+            "Evening exploration of the Chelsea Art District"
+        ],
+        "recommendedGear": [
+            "Smart-casual attire for gallery visits",
+            "Comfortable walking shoes",
+            "Notebook for art observations",
+            "Open mind for diverse art experiences"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Culinary",
+        "location": "New York",
+        "name": "Food Truck Fiesta",
+        "details": "Embark on a culinary adventure through New York's diverse food truck scene. Sample a variety of street food delicacies, from gourmet sandwiches to international flavors, and experience the city's foodie culture.",
+        "price": 699.99,
+        "image": "/new_york3.jpg",
+        "gallery": [
+            "/new_york4.jpg",
+            "/new_york5.jpg",
+            "/new_york2.jpg",
+            "/new_york1.jpg"
+        ],
+        "duration": "1 day",
+        "includesMeals": true,
+        "observationTimes": [
+            "Lunch"
+        ],
+        "meetingPoint": "Food Truck Hub",
+        "departureTime": "12:00 PM",
+        "returnTime": "3:00 PM",
+        "highlights": [
+            "Explore New York's diverse food truck scene",
+            "Sample gourmet sandwiches and international flavors",
+            "Immerse in the city's vibrant foodie culture",
+            "Lunchtime culinary adventure"
+        ],
+        "recommendedGear": [
+            "Casual attire for outdoor food exploration",
+            "Water bottle for staying hydrated",
+            "Appetite for diverse street food",
+            "Camera for documenting culinary delights"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Historical",
+        "location": "New York",
+        "name": "Revolutionary War Reenactment",
+        "details": "Step back in time with a historical reenactment of key Revolutionary War events. Witness battle reenactments, explore military encampments, and gain a firsthand experience of the nation's history.",
+        "price": 849.99,
+        "image": "/new_york4.jpg",
+        "gallery": [
+            "/new_york5.jpg",
+            "/new_york1.jpg",
+            "/new_york2.jpg",
+            "/new_york3.jpg"
+        ],
+        "duration": "2 days",
+        "includesMeals": true,
+        "observationTimes": [
+            "Daytime"
+        ],
+        "meetingPoint": "Historic Battlefield",
+        "departureTime": "9:30 AM",
+        "returnTime": "5:00 PM",
+        "highlights": [
+            "Live reenactment of Revolutionary War events",
+            "Explore military encampments and exhibits",
+            "Interactive history sessions",
+            "Immerse in the nation's founding era"
+        ],
+        "recommendedGear": [
+            "Comfortable historical attire if desired",
+            "Sunscreen and hat for daytime events",
+            "Camera for capturing historical moments",
+            "Curiosity about Revolutionary War history"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Cityscape",
+        "location": "New York",
+        "name": "Sunset Cruise on the Hudson",
+        "details": "Experience the magic of a New York sunset with a cruise on the Hudson River. Enjoy panoramic views of the city skyline, iconic landmarks, and the Statue of Liberty as the sun sets over the Manhattan skyline.",
+        "price": 999.99,
+        "image": "/new_york5.jpg",
+        "gallery": [
+            "/new_york1.jpg",
+            "/new_york2.jpg",
+            "/new_york3.jpg",
+            "/new_york4.jpg"
+        ],
+        "duration": "2 hours",
+        "includesMeals": true,
+        "observationTimes": [
+            "Evening"
+        ],
+        "meetingPoint": "Hudson River Pier",
+        "departureTime": "6:30 PM",
+        "returnTime": "8:30 PM",
+        "highlights": [
+            "Magical sunset views over the Manhattan skyline",
+            "Cruise along the Hudson River",
+            "Panoramic vistas of iconic landmarks",
+            "Evening relaxation on the water"
+        ],
+        "recommendedGear": [
+            "Sweater or light jacket for evening breeze",
+            "Camera for capturing sunset moments",
+            "Appetite for a delightful onboard dinner",
+            "Enjoyment of a serene Hudson River cruise"
+        ]
+    }
+]
